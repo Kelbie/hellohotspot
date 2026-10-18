@@ -1,0 +1,7 @@
+repository: https://github.com/Kelbie/hellohotspot
+pubkey: npub1pfkkzdrvk0s4vv3n6jfaekryf6vnyjatyntfzm4f70s2440ew8rs0zw59n
+name: HelloHotspot
+summary: Pay-as-you-go eSIM data, paid from a built-in wallet
+website: https://gethellohotspot.com
+release_source: https://gethellohotspot.com/download/android
+metadata_sources: []
